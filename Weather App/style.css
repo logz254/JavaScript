@@ -32,7 +32,7 @@ header i{
     font-size: 0em;
     margin-right: 8px;
 }
-.wrapper .active header i{
+.wrapper.active header i{
     font-size: 30px;
     margin-left: 5px;
 }
@@ -140,7 +140,7 @@ header i{
 }
 .location i{
     font-size:22px;
-    margin-right: 5px;
+    margin-right: 4px 5px 0 0;
 }
 .weather-part .bottom-details{
     width: 100%;
